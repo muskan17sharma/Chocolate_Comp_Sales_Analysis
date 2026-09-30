@@ -113,8 +113,4 @@ Chocolate-Company-Gross-Sales-Dashboard/
 
 ---
 
-## Author
 
-**Muskan Sharma**
-
-Data Analytics Portfolio Project
